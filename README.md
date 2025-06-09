@@ -1,2 +1,2 @@
-# Project1
-A project on cancer prediction
+# Breast Cancer prediction
+A Data science and Machine learning project on cancer prediction.
